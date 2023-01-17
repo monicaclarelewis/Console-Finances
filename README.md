@@ -1,5 +1,6 @@
 # Console-Finances
 
+https://monicaclarelewis.github.io/Finances-using-JavaScript/ 
 
 ## Description
 
@@ -11,7 +12,7 @@ Follow the link above, right click and choose 'inspect'. Select 'console' on the
 
 ## Usage
 
-
+![Screen Shot 2023-01-17 at 2 38 57 PM](https://user-images.githubusercontent.com/118432326/212931780-ffc25ce0-5d57-47a8-ba63-2fabcee977be.png)
 
 ## Credits
 
